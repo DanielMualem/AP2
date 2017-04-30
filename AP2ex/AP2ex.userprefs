@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{9A1C0C91-E818-40B9-81C5-A33AC849172F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AP2ex Status">
+    <Files>
+      <File FileName="AP2ex/Program.cs" Line="6" Column="6" />
+      <File FileName="AP2ex Status" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.AP2ex PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
